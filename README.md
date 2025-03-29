@@ -24,6 +24,3 @@ I'm currently working.
 
 
 
-
-
-![snake gif](https://github.com/Devadeth-1/Devadeth-1/blob/output/github-contribution-grid-snake.svg)
